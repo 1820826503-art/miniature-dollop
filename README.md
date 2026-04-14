@@ -52,7 +52,7 @@ The practical significance of STP: Many companies fail not because their product
 ## II. SWOT Analysis
 SWOT analysis is one of the most commonly used tools in corporate strategic planning. It systematically assesses a company's current situation from four dimensions: internal factors (strengths and weaknesses) and external factors (opportunities and threats).
  <img width="1000" height="508" alt="image" src="https://cdn.processon.io/admin/knowledge/article_content_img/69dc84e5bda86a2515e5d554.png" />
- 
+    <h3 align="center">
   [SWOT analysis model](https://www.processon.io/view/marketing-strategies-analytics-tools/69d869a4e3d1af51cbfea356)
 
 ### 1. Strengths and Weaknesses (Internal Perspective)
@@ -83,7 +83,7 @@ Practical advice for SWOT analysis: Many teams tend to treat SWOT analysis as a 
 ## III. PEST Analysis
 PEST analysis helps businesses scan the external environment from a macro perspective, identifying long-term trends and systemic risks. It is divided into four dimensions: Political, Economic, Social, and Technological. Some extended models also incorporate Legal and Environmental dimensions, but the core remains PEST.
  <img width="1000" height="508" alt="image" src="https://cdn.processon.io/admin/knowledge/article_content_img/69dc84f4bda86a2515e5d556.png" />
- 
+    <h3 align="center">
   [PEST analysis model](https://www.processon.io/view/marketing-strategies-analytics-tools/69d869a4e3d1af51cbfea356)
 
 ### 1. Political Environment
@@ -129,7 +129,7 @@ Practical tips for PEST analysis: With numerous macroeconomic factors at play, c
 ## IV. 4P Theory
 The 4Ps theory, proposed by McCarthy in 1960, is the most classic framework for marketing tactics. It breaks down marketing activities into four controllable variables: Product, Price, Place, and Promotion. Later, modified models such as the 4Cs (Customer, Cost, Convenience, Communication) were proposed, but the 4Ps, due to their simplicity and completeness, remain the foundation for companies to develop marketing plans.
  <img width="1000" height="508" alt="image" src="https://cdn.processon.io/admin/knowledge/article_content_img/69dc8502bda86a2515e5d558.png" />
- 
+    <h3 align="center">
   [4P Theory](https://www.processon.io/view/marketing-strategies-analytics-tools/69d869a4e3d1af51cbfea356)
 
 ### 1. Products: Meeting Needs, Creating Surprises
@@ -192,15 +192,15 @@ The 4P combination translates the positioning determined by STP into concrete im
 ## VI. Marketing Strategy Chart Templates
 The four models described above would be abstract if presented in plain text; however, using [ProcessOn charting tools](https://www.processon.io/login?from=blog) such as matrix diagrams and SWOT charts, the team can understand them more quickly and execute them more accurately. Below are some marketing chart templates from the ProcessOn template community that you can directly clone and use.
  <img width="1000" height="508" alt="image" src="https://cdn.processon.io/admin/knowledge/article_content_img/69c374f5a23a5158753cc4f5.png" />
- 
+    <h3 align="center">
   [Competitive Analysis - SWOT Analysis](https://www.processon.io/view/competitive-canvas-swot-analysis/69c22290f22a0962caf205d6)
 
   <img width="1000" height="508" alt="image" src="https://cdn.processon.io/admin/knowledge/article_content_img/69b3738a4f90f60486f11c41.png" />
- 
+    <h3 align="center">
   [PEST analysis model](https://www.processon.io/view/pest-analysis-chart/69b0fb71f22a0962cae619c1)
   
   <img width="1000" height="508" alt="image" src="https://cdn.processon.io/admin/knowledge/article_content_img/69d5e975bda86a2515e5d0fe.png" />
- 
+    <h3 align="center">
   [4P Marketing Theory Template](https://www.processon.io/view/4p-theory-model/69d475dde3d1af51cbfb9bfc)
 
   Whether you're a startup or an established brand, whether you sell physical products or digital services, you can start with these four models to build your own marketing strategy system. Hopefully, this article provides you with a clear roadmap. In your future work, try using charting tools to visualize and implement these models, truly translating your strategies into growth.
