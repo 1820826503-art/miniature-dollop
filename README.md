@@ -7,7 +7,7 @@ This article will analyze these four strategies in depth, explaining their core 
 ## I. STP Strategy
 STP is an acronym for Segmentation, Targeting, and Positioning. It was first proposed by marketing scholar Wendell Smith and later popularized by Philip Kotler. The core idea of STP is that businesses cannot serve everyone; they must select the most profitable customer groups where they can best leverage their strengths and build unique brand recognition around them.
   <img width="1000" height="508" alt="image" src="https://cdn.processon.io/admin/knowledge/article_content_img/69dc84d9bda86a2515e5d552.png" />
- 
+    <h3 align="center">
  [STP strategy](https://www.processon.io/view/marketing-strategies-analytics-tools/69d869a4e3d1af51cbfea356)
 
  ### 1. Market segmentation: Dividing a large market into smaller segments.
