@@ -193,17 +193,14 @@ The 4P combination translates the positioning determined by STP into concrete im
 The four models described above would be abstract if presented in plain text; however, using [ProcessOn charting tools](https://www.processon.io/login?from=blog) such as matrix diagrams and SWOT charts, the team can understand them more quickly and execute them more accurately. Below are some marketing chart templates from the ProcessOn template community that you can directly clone and use.
  <img width="1000" height="508" alt="image" src="https://cdn.processon.io/admin/knowledge/article_content_img/69c374f5a23a5158753cc4f5.png" />
   
-    <h3 align="center">
-  [Competitive Analysis - SWOT Analysis](https://www.processon.io/view/competitive-canvas-swot-analysis/69c22290f22a0962caf205d6)
+   [Competitive Analysis - SWOT Analysis](https://www.processon.io/view/competitive-canvas-swot-analysis/69c22290f22a0962caf205d6)
 
   <img width="1000" height="508" alt="image" src="https://cdn.processon.io/admin/knowledge/article_content_img/69b3738a4f90f60486f11c41.png" />
   
-    <h3 align="center">
   [PEST analysis model](https://www.processon.io/view/pest-analysis-chart/69b0fb71f22a0962cae619c1)
   
   <img width="1000" height="508" alt="image" src="https://cdn.processon.io/admin/knowledge/article_content_img/69d5e975bda86a2515e5d0fe.png" />
   
-    <h3 align="center">
   [4P Marketing Theory Template](https://www.processon.io/view/4p-theory-model/69d475dde3d1af51cbfb9bfc)
 
   
